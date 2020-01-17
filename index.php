@@ -1,5 +1,6 @@
 <?php
 require_once('settings.php');
+echo "Hello";
 
 $login_url = 'https://www.paypal.com/signin/authorize?scope=' . urlencode('') . '&redirect_uri=' . urlencode(PAYPAL_CLIENT_REDIRECT_URL) . '&response_type=code&client_id=' . PAYPAL_CLIENT_ID;
 ?>
