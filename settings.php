@@ -9,6 +9,6 @@ define('PAYPAL_CLIENT_SECRET', 'ELVL2xj1Mf--UGLtuD9v9q39DYisn9R9FCLJSagEz-C8gxGd
                                 
 
 /* Paypal App Redirect Url */
-define('PAYPAL_CLIENT_REDIRECT_URL', 'https://stage.canqualifier.com/');
+define('PAYPAL_CLIENT_REDIRECT_URL', 'https://ultimatebrains.github.io/demo_pay/');
 
 ?>
